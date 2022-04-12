@@ -7,3 +7,8 @@ export const Container = styled.View`
   
   padding-top: 54px;
 `;
+
+export const Chart = styled.View`
+  width: 100%;
+  align-items: center;
+`;
